@@ -23,7 +23,7 @@ repository               : "yyao0507/yyao0507.github.io" #"academicpages/academi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/IMG_6867.JPG"
+  avatar           : "/assets/images/IMG_6867.JPG"
   name             : "Yan Yao"
   pronouns         : "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
