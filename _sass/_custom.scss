@@ -15,26 +15,4 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 600 !important;
 }
 
-.greedy-nav a {
-    font-family: "Bitter", serif !important;
-    font-weight: 600 !important;
-    font-style: normal;
-}
 
-// 让网站标题（你的名字）更突出
-.greedy-nav .visible-links li:first-child a {
-    font-weight: 700 !important;  // 更粗一些
-    font-size: 1.15em !important; // 稍微大一点
-}
-// 下拉菜单中的链接（移动端）
-.greedy-nav .hidden-links a {
-    font-family: "Bitter", serif !important;
-    font-weight: 600 !important;
-    font-style: normal;
-}
-
-// 导航栏按钮（可选）
-.greedy-nav button {
-    font-family: "Bitter", serif !important;
-    font-weight: 600 !important;
-}
