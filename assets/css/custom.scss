@@ -1,21 +1,13 @@
 
----
-# This front matter tells Jekyll to process this file
----
-
-// Import partials from the theme
-@import "minimal-mistakes/skins/{{ site.site_theme | default: 'default' }}"; // skin selection
-@import "minimal-mistakes"; // main partials
-
 
 // Custom CSS for styling
 // This file will be loaded after the theme's default CSS
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif !important;
     font-weight: 600;
 }
