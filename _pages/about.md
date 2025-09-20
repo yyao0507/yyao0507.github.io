@@ -22,16 +22,15 @@ Projects
 
 Awards
 ------
-
 👩🏻‍🏫
+
 Experiences
 ------
-
 👩🏻‍💻
 
 **Remarks**
-
 👩🏻‍💼
+
 For more info
 ------
 
