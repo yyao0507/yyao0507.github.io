@@ -1,3 +1,13 @@
+
+---
+# This front matter tells Jekyll to process this file
+---
+
+// Import partials from the theme
+@import "minimal-mistakes/skins/{{ site.site_theme | default: 'default' }}"; // skin selection
+@import "minimal-mistakes"; // main partials
+
+
 // Custom CSS for styling
 // This file will be loaded after the theme's default CSS
 
