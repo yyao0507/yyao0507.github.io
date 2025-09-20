@@ -23,11 +23,11 @@ repository               : "yyao0507/yyao0507.github.io" #"academicpages/academi
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 
-avatar: "/assets/images/IMG_6867.JPG"
+#avatar: "/assets/images/IMG_6867.JPG"
 
 author:
   # Biographic information
-  avatar           : "assets/images/IMG_6867.JPG"
+  avatar           : "/assets/images/IMG_6867.JPG"
   name             : "Yan Yao"
   pronouns         : "she/her"  
   bio              : "一路上 我在听"
