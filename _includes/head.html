@@ -22,26 +22,28 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
   
-/* 方案一：masthead 相关选择器 */
-.masthead__menu-item,
-.masthead__menu-item a,
+/* 使用更具体的选择器覆盖导航栏字体 */
 .greedy-nav a,
-.site-title,
-.masthead a {
+.masthead__menu-item a,
+.masthead__inner-wrap a {
     font-family: "Bitter", serif !important;
     font-optical-sizing: auto;
     font-weight: 600 !important;
     font-style: normal;
 }
 
-/* 让网站标题更突出 */
-.masthead__menu-item--lg,
-.masthead__menu-item:first-child,
-.greedy-nav .visible-links li:first-child a {
+/* 覆盖网站标题 */
+.greedy-nav .visible-links li:first-child a,
+.masthead__menu-item--lg a {
     font-weight: 700 !important;
     font-size: 1.15em !important;
 }
-  
+
+/* 覆盖移动端菜单 */
+.greedy-nav .hidden-links a {
+    font-family: "Bitter", serif !important;
+    font-weight: 600 !important;
+}
 </style>
 
 
