@@ -11,27 +11,25 @@ redirect_from:
 I am an undergraduate student majoring in Data Science and Technology at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>.
 
 The website is under constructions :)
-
-Educations
 ======
-👩🏻
 
 Projects
-======
-👩🏻‍🦱
-
-Awards
 ------
-👩🏻‍🏫
+👩🏻‍🦱
 
 Experiences
 ------
 👩🏻‍💻
 
-**Remarks**
+Awards
+------
+👩🏻‍🏫
 
-👩🏻‍💼
+Educations
+------
+👩🏻
 
 For more info
 ------
+👩🏻‍💼
 
