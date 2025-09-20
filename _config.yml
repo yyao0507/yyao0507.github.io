@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yan Yao"
 title_separator          : "-"
 name                     : &name "Yan Yao"
@@ -30,7 +30,7 @@ author:
   avatar           : "/assets/images/IMG_6867.JPG"
   name             : "Yan Yao"
   pronouns         : "she/her"  
-  bio              : "一路上 我在听"
+  bio              : '"一路上 我在听"'
   location         : "Ningbo / HK"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/nora-yan/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
